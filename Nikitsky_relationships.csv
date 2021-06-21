@@ -1,0 +1,81 @@
+;Source;Target;Relation;Class
+0;ondrejan_zaharjinic;jesif_zaharjinic;брат;relative
+1;afanasij_jesifovic;vasilij_jesifovic;брат;relative
+2;vasilij_jesifovic;afanasij_jesifovic;брат;relative
+3;jesif_zaharjinic;ondrejan_zaharjinic;брат;relative
+4;samson_932;samson_ivanovic;высоковероятна тождественность;same?
+5;samson_ivanovic;samson_932;высоковероятна тождественность;same?
+6;ostafja_948;ostafja_932;высоковероятна тождественность;same?
+7;ostafja_932;ostafja_948;высоковероятна тождественность;same?
+8;smen_949;smen_931;высоковероятна тождественность;same?
+9;smen_931;smen_949;высоковероятна тождественность;same?
+10;nos_937;vasilij_jesifovic;не исключена тождественность;same?
+11;vasilij_jesifovic;nos_937;не исключена тождественность;same?
+12;jeremej_948;jeremej_949;высоковероятна тождественность;same?
+13;jeremej_949;jeremej_948;высоковероятна тождественность;same?
+14;kuzma_children_932;kuzma_932;дети;relative
+15;sava_938;anon_938;должник;knows
+16;bratan_938;anon_938;должник;knows
+17;zhena_931;smen_931;жена;relative
+18;uljana_942;…j_942;жена;relative
+19;anon_938;bratan_938;заимодавец;knows
+20;anon_938;sava_938;заимодавец;knows
+21;vasilij_jesifovic;mihalko_937;знает;knows
+22;jeremej_948;oksentij_948;знает;knows
+23;jeremej_948;ostafja_948;знает;knows
+24;smen_949;jakov_949;знает;knows
+25;smen_949;jeremej_949;знает;knows
+26;smen_949;stepan_949;знает;knows
+27;jakov_949;jeremej_949;знает;knows
+28;jakov_949;stepan_949;знает;knows
+29;jeremej_949;stepan_949;знает;knows
+30;jakov_949;smen_949;знает;knows
+31;jeremej_949;smen_949;знает;knows
+32;stepan_949;smen_949;знает;knows
+33;jeremej_949;jakov_949;знает;knows
+34;stepan_949;jakov_949;знает;knows
+35;stepan_949;jeremej_949;знает;knows
+36;parfej_948;ostafja_948;контрагент;knows
+37;ostafja_948;parfej_948;контрагент;knows
+38;smen_931;zhena_931;муж;relative
+39;…j_942;uljana_942;муж;relative
+40;ivan_933;ivan_lukinic;не исключена тождественность;same?
+41;ivan_lukinic;ivan_933;не исключена тождественность;same?
+42;ostafja_948;konstantin_932;отец;relative
+43;silvan;kuzma_932;отец;relative
+44;kuzma_932;kuzma_children_932;отец;relative
+45;jesif_zaharjinic;vasilij_jesifovic;отец;relative
+46;zaharja_mihajlovic;jesif_zaharjinic;отец;relative
+47;zaharja_mihajlovic;ondrejan_zaharjinic;отец;relative
+48;mihail_pavshinic;zaharja_mihajlovic;отец;relative
+49;pavsha_onanjic;mihail_pavshinic;отец;relative
+50;jesif_zaharjinic;afanasij_jesifovic;отец;relative
+51;luka;ivan_lukinic;отец;relative
+52;onanja;pavsha_onanjic;отец;relative
+53;jurij_937;nos_937;письмо;writes_to
+54;petr_949;smen_949;поклон;writes_to
+55;petr_949;jakov_949;поклон;writes_to
+56;petr_949;jeremej_949;поклон;writes_to
+57;petr_949;stepan_949;поклон;writes_to
+58;mihalko_937;vasilij_jesifovic;послан к;knows
+59;oksentij_948;ostafja_948;послан к;knows
+60;jurij_937;mihalko_937;посылает;knows
+61;parfej_948;oksentij_948;посылает;knows
+62;zhena_931;smen_931;приказ;writes_to
+63;ivan_933;igumen_933;приказ;writes_to
+64;…j_942;uljana_942;приказ;writes_to
+65;parfej_948;jeremej_948;приказ;writes_to
+66;konstantin_932;ostafja_932;сын;relative
+67;kuzma_932;silvan;сын;relative
+68;ivan_lukinic;luka;сын;relative
+69;vasilij_jesifovic;jesif_zaharjinic;сын;relative
+70;afanasij_jesifovic;jesif_zaharjinic;сын;relative
+71;jesif_zaharjinic;zaharja_mihajlovic;сын;relative
+72;ondrejan_zaharjinic;zaharja_mihajlovic;сын;relative
+73;zaharja_mihajlovic;mihail_pavshinic;сын;relative
+74;mihail_pavshinic;pavsha_onanjic;сын;relative
+75;pavsha_onanjic;onanja;сын;relative
+76;anon_932;samson_932;упоминает;knows
+77;anon_932;kuzma_932;упоминает;knows
+78;anon_932;kuzma_children_932;упоминает;knows
+79;anon_932;konstantin_932;упоминает;knows
